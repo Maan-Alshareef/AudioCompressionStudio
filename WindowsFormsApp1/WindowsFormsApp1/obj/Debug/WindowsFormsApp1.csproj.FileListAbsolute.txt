@@ -1,0 +1,20 @@
+C:\Users\LENOVO\Desktop\Multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LENOVO\Desktop\Multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Desktop\Multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Desktop\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Desktop\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Desktop\Multimedia (2)\Multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LENOVO\Desktop\Multimedia (2)\Multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Desktop\Multimedia (2)\Multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Desktop\Multimedia (2)\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Multimedia (2)\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Multimedia (2)\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Multimedia (2)\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Multimedia (2)\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LENOVO\Desktop\Multimedia (2)\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\LENOVO\Desktop\Multimedia (2)\Multimedia\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\NAudio.dll
+C:\Users\LENOVO\Desktop\Multimedia (2)\Multimedia\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
